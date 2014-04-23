@@ -8,6 +8,7 @@ public class principal {
 		// TODO Auto-generated method stub
 //hola amigos
 		
+		// somos uno solo en el mundo
 	}
 
 }
